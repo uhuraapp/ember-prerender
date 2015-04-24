@@ -13,7 +13,7 @@ var config = {
   exitAfterMaxRequests: false,
   gracefulExit: true,
   maxQueueSize: 50,
-  appUrl: "http://localhost:4200/",
+  appUrl: "http://uhura.io/",
   serveFiles: true,
   serveFilesLog: true,
   filesMatch: /\.(?:css|js|jpg|png|gif|ico|svg|woff|woff2|ttf|swf|map)(?:\?|$)/i,
